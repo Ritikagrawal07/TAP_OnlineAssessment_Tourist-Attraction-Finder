@@ -1,7 +1,7 @@
 import React from "react";
 
 const Filters = ({ selected, onChange }) => {
-  const categories = ["All", "Historical", "Nature", "Art"];
+  const categories = ["All", "Historical", "Nature", "Art","Adventure"];
 
   return (
     <div style={{ marginBottom: "1rem" }}>
