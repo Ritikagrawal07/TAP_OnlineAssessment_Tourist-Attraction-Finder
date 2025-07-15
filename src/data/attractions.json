@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Heritage Fort",
+    "category": "Historical",
+    "description": "A 400-year-old fort with guided tours.",
+    "image": "https://t4.ftcdn.net/jpg/03/23/89/13/240_F_323891347_Y0RF7AExyCjyFtZWZYhmhkIdYDUmRmNq.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lakeside Park",
+    "category": "Nature",
+    "description": "Peaceful park with a beautiful lake.",
+    "image": "https://cdn.pixabay.com/photo/2022/07/26/12/50/lake-7345796_640.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Modern Art Museum",
+    "category": "Art",
+    "description": "Explore contemporary art exhibits.",
+    "image": "https://images.unsplash.com/photo-1576531946810-5b358dc8d545?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Snowy Mountains",
+    "category": "Adventure",
+    "image": "https://images.unsplash.com/photo-1464294422770-538af108fbd6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c25vd3klMjBtb3VudGFpbnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "id": 5,
+    "name": "Desert Safari",
+    "category": "Adventure",
+    "image": "https://images.unsplash.com/photo-1588310558566-b983c7d257e4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGVzZXJ0JTIwc2FmYXJpfGVufDB8fDB8fHww"
+  }
+//   {
+//     name: "Ancient Temple",
+//     category: "Historical",
+//     image: "https://cdn.pixabay.com/photo/2017/08/01/08/29/temple-2563944_640.jpg",
+//   },
+//   {
+//     name: "Botanical Garden",
+//     category: "Nature",
+//     image: "https://cdn.pixabay.com/photo/2020/07/07/08/29/botanical-5381522_640.jpg",
+//   },
+//   {
+//     name: "City Night View",
+//     category: "Urban",
+//     image: "https://cdn.pixabay.com/photo/2014/07/05/20/25/building-385406_640.jpg",
+//   },
+//   {
+//     name: "Coastal Cliff",
+//     category: "Nature",
+//     image: "https://cdn.pixabay.com/photo/2016/10/18/21/22/cliffs-1758151_640.jpg",
+//   },
+//   {
+//     name: "Royal Palace",
+//     category: "Historical",
+//     image: "https://cdn.pixabay.com/photo/2016/11/29/04/17/architecture-1868667_640.jpg",
+//   },
+//   {
+//     name: "Art Street",
+//     category: "Art",
+//     image: "https://cdn.pixabay.com/photo/2016/03/27/19/17/graffiti-1284267_640.jpg",
+//   },
+//   {
+//     name: "Island Resort",
+//     category: "Relaxation",
+//     image: "https://cdn.pixabay.com/photo/2016/11/21/16/03/maldives-1846769_640.jpg",
+//   },
+//   {
+//     name: "Jungle Trek",
+//     category: "Adventure",
+//     image: "https://cdn.pixabay.com/photo/2016/12/11/12/02/jungle-1895773_640.jpg",
+//   },
+//   {
+//     name: "Modern Tower",
+//     category: "Urban",
+//     image: "https://cdn.pixabay.com/photo/2016/11/22/07/09/architecture-1846663_640.jpg",
+//   },
+//   {
+//     name: "Cultural Market",
+//     category: "Cultural",
+//     image: "https://cdn.pixabay.com/photo/2016/11/23/00/40/market-1853439_640.jpg",
+//   }
+  
+]
